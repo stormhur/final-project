@@ -1,7 +1,7 @@
 
-<center><header> From Churches to Mosques: We Need to Include Every Faith Community in the Fight Against HIV 
-<h5> By Storm Hurwitz </h5> </center>
-<center> <p> </p> <iframe width="100%" height="375" frameborder="0" src="https://stormhur.cartodb.com/viz/8dbdc09c-88ab-11e5-a117-0e787de82d45/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></center> <center>This map depicts the allocation of funding for New York City's HIV/AIDS Faith-based Initiative for FY2014</center>
+<text-align="center"><h1> From Churches to Mosques: We Need to Include Every Faith Community in the Fight Against HIV </h1>
+<h5><text-align="center"> By Storm Hurwitz </h5>
+<iframe width="100%" height="375" frameborder="0" src="https://stormhur.cartodb.com/viz/8dbdc09c-88ab-11e5-a117-0e787de82d45/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></center> <center>This map depicts the allocation of funding for New York City's HIV/AIDS Faith-based Initiative for FY2014</center>
 
 
 <p> 
