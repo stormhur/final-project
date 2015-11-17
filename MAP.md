@@ -1,16 +1,12 @@
 
-<p><center><h1> From Churches to Mosques: We Need to Include Every Faith Community in the Fight Against HIV </h1>
+<center><header> From Churches to Mosques: We Need to Include Every Faith Community in the Fight Against HIV 
 <h5> By Storm Hurwitz </h5> </center>
 <center> <p> </p> <iframe width="100%" height="375" frameborder="0" src="https://stormhur.cartodb.com/viz/8dbdc09c-88ab-11e5-a117-0e787de82d45/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></center> <center>This map depicts the allocation of funding for New York City's HIV/AIDS Faith-based Initiative for FY2014</center>
 
 
 <p> 
 
-___
-
-
-</center>
-Monté, a sixty-two-year-old gay man and client of GMHC, sat gazing out of the floor-to-ceiling windows overlooking the construction of the new Hudson Yards on Manhattan’s West Side and recalled witnessing the tragedies of 9/11. He spoke of his innate desire to help the survivors of the attacks but noted, “I knew they didn’t want my blood because I had been [HIV] positive already, and so I wanted to go downtown to help search for people, but they wouldn’t even let you below 14th Street. I thought it was such a horror.” 
+<paragraph>Monté, a sixty-two-year-old gay man and client of GMHC, sat gazing out of the floor-to-ceiling windows overlooking the construction of the new Hudson Yards on Manhattan’s West Side and recalled witnessing the tragedies of 9/11. He spoke of his innate desire to help the survivors of the attacks but noted, “I knew they didn’t want my blood because I had been [HIV] positive already, and so I wanted to go downtown to help search for people, but they wouldn’t even let you below 14th Street. I thought it was such a horror.” 
 
 On his way home on 9/11, Monté noticed a church flying a rainbow flag, indicating its acceptance of the lesbian, gay, bisexual, and transgender (LGBT) community. The Sunday after 9/11, he returned to that church to attend a service. The experience of attending a church that welcomed him transformed his relationship to faith and God, creating a new desire to explore his spirituality. Shortly thereafter, he began volunteering and ushering at church services. 
 Tears filled Monté’s eyes as he recollected his church’s response when he became sick with Pneumocystis Pneumonia (PCP), a serious illness common to those living with HIV and AIDS:
