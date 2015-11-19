@@ -1,6 +1,6 @@
-<text align="center"> <h1> Storm Hurwitz Final Project </h1>
+<h1> Storm Hurwitz Final Project </h1>
 <h2> Web Coding for Interactive Design </h2>
-<h2> Project Title: New York City's HIV/AIDS Faith-based Initiative </h2></center>
+<h2> Project Title: New York City's HIV/AIDS Faith-based Initiative </h2>
 
 <h3>Project Link: http://stormhur.github.io/final-project/ </h3>
 <br>
@@ -15,7 +15,7 @@ While interning at GMHC (formerly known as Gay Men's Health Crisis) during the w
 While working at GMHC, I originally proposed to create a map that would juxtapose the NYC funding of FBOs on top of a map depicting the percent of PLWHA in each Community District of Manhattan. However, I did not have the skillset to create the map and, quite honestly, the conversation on the intersection had not been written about much up until that point. So, instead, I interviewed several GMHC clients, all of which were PLWHA, and wrote an article, which was published in *POZ Magazine*, on the importance of these funding efforts. [Click here to read the full article](http://www.poz.com/articles/faith_based_communities_2959_27430.shtml). 
 
 Now, having completed most of Web Coding for Interactive Design at The New School, I am prepared to generate the map that I originally wanted to create that can be presented alongside the article I wrote. The purpose of creating this map is that individuals can see whether the FBOs being funded during the Fiscal Year (FY) 2014 were located in areas where there is a higher population of PLWHA. Further, it enables the user to easily comprehend the amount of FBOs funded, their religious affiliation, location, and amount funded during FY2014. 
-
+<br>
 <h3> Project Procedure </h3>
 Because my new project is interested at creating a visualization of spatially where New York City Department of Mental Health and Hygiene's HIV/AIDS Faith Based Prevention Initiative Funding is being allocated towards, I had to do quite a lot of work to generate this map. In order for the user to determine the effectiveness of the funding, I found it necessary to visualize where there is the highest density of Persons Living with HIV/AIDS (PLWHA) in Manhattan, New York. I did this through generating a chloropleth map of the prevalence of PLWHA in each Community District (CD). An initial challenge in data cleaning on this end that I faced was that the NYC Surveillance Data on PLWHA is separated into zones as determined by Ryan White policy, whereas I have only been able to find polygon shapes for CDs. However, I was able to solve this issue quite easily because the zip codes easily separated from the Ryan White districts into the CDs.
 
@@ -24,11 +24,11 @@ Then, I found the dataset regarding what faith-based organizations (FBOs) were f
 I then created a scroll feature using JavaScript for the bubbles that informs the user of what the title of the FBO is, the religious affiliation, and the amount funded. After that, I created a click feature using Javascript for the CDs that informs the user of what CD they are looking at and the percentage of the population that is PLWHA.
 
 In order to make sure that my work is readable by all communities as well as aesthetically pleasing, I used ColorBrewer and Flat UI Colors to generate my color palette. I worked with JavaScript, HTML, and CSS in order to complete my project. You can see the finished project by [clicking here](http://bit.ly/1WNEBdg)!
-
+<br>
 <h3> Images </h3>
 
 ![CartoDB Stormhur](http://i.imgur.com/rKsUHXj.png)
-
+<br>
 <h3> Sources </h3>
 
 *Source for Graphic*: CartoDB, [CartoDB Stormhur](http://bit.ly/1WNEBdg)
