@@ -3,7 +3,6 @@
 <h2> Project Title: New York City's HIV/AIDS Faith-based Initiative </h2>
 
 <h3>Project Link: http://stormhur.github.io/final-project/ </h3>
-<br>
 #<h3> Description </h3> 
 
 New York City Department of Mental Health and Hygiene is quite progressive in its funding of Faith-based Organizations (FBOs) to do HIV/AIDS prevention and support work. Of course, hearing this might raise the question, why?
