@@ -1,6 +1,6 @@
-<h1> Storm Hurwitz Final Project </h1>
+<text align="center"> <h1> Storm Hurwitz Final Project </h1>
 <h2> Web Coding for Interactive Design </h2>
-<center><h2> Project Title: New York City's HIV/AIDS Faith-based Initiative </h2></center>
+<h2> Project Title: New York City's HIV/AIDS Faith-based Initiative </h2></center>
 
 <h3>Project Link: http://stormhur.github.io/final-project/ </h3>
 <br>
